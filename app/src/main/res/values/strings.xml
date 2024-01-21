@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="painting_one">Mona Lisa</string>
+    <string name="artistAndYear_one">Leonardo Da Vinci (1503–1519)</string>
+
+    <string name="painting_two">Girl with a Pearl Earring</string>
+    <string name="artistAndYear_two">Johannes Vermeer (1665)</string>
+
+    <string name="painting_three">The Starry Night</string>
+    <string name="artistAndYear_three">Vincent van Gogh (1889)</string>
+
+    <string name="painting_four">The Kiss</string>
+    <string name="artistAndYear_four">Gustav Klimt (1907–1908)</string>
+
+</resources>
